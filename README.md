@@ -1,1 +1,0 @@
-# HealthCare-Prediction-on-Diabetic-Patients-using-Python
